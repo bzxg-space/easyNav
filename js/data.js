@@ -1,0 +1,106 @@
+var source = [{
+		name: '搜索',
+		content: [
+			'百度：http://www.baidu.com',
+			'搜狗：https://www.sogou.com',
+			'好搜：https://www.so.com/',
+			'必应：http://cn.bing.com/',
+			'密迹：https://mijisou.com/',
+		]
+	},
+	{
+		name: '有趣',
+		content: [
+			'毒鸡汤：http://www.nows.fun/',
+			'查网络流行语就上【小鸡词典】！：https://jikipedia.com/',
+			'你好污啊（撩妹撩汉金句）：https://www.nihaowua.com/',
+			'沙雕APP：https://shadiao.app/', 
+			'Hitokoto - 一言：https://hitokoto.cn/#', 
+			' ONE · 一个：http://m.wufazhuce.com/',
+			'狗屁不通文章生成器：https://suulnnka.github.io/BullshitGenerator/index.html',
+			'渣男语录：http://www.zhananyulu.com/',
+			'一篇文字：https://www.dumogu.top/',
+			'渣男语（含API）：https://lovelive.tools/',
+			'能不能好好说话？：https://lab.magiconch.com/nbnhhsh/',
+			'第一个网站（世界上第一个网站）：http://info.cern.ch/',
+			'水滴（世界上最小的网站）：http://www.guimp.com/',
+			'世界最高（世界上最高的网站）：https://worlds-highest-website.com/',
+			'世界最长（世界上最长，增长最快的网站）：http://www.worldslongestwebsite.com/',
+			'世界之邮（世界上最长的邮箱）：http://abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzabcdefghijk.mail.everyone.net/',
+			'狂拽酷炫的代码特效：https://ertdfgcvb.xyz/',
+			'缤纷的粒子：http://www.spielzeugz.de/html5/liquid-particles-3D/',
+			'解压网站（跳动的音符 疯狂的音乐）：https://aidn.jp/mikutap/',
+			'Emoji短网址（把网址变成Emoji表情）：https://e.mezw.com/',
+			'Windows93（网页版windows93系统）：http://www.windows93.net/',
+			'今天中午吃什么？：https://www.zwcsm.com/',
+			'happy happy hardcore（治愈小表情）：https://happyhappyhardcore.com/',
+			'雨季情绪（下雨的声音）：https://rainymood.com/',
+			'VirtOcean（海洋的声音）：http://virtocean.com/',
+			'Purrli（猫打呼噜的声音）：https://purrli.com/',
+			'帮你百度一下：http://iwo.im/',
+			'在线模拟各种系统升级：http://fakeupdate.net/',
+			'炫酷的光线绘画：http://weavesilk.com/',
+		]
+	},
+	{
+		name: '电子书下载',
+		content: [
+			'鸠摩搜书：https://www.jiumodiary.com/',
+			'雅书（pdf电子书）：https://www.yabook.org/',
+			'时宜搜书：https://shiyidiary.ztianzeng.com/',
+			'iBook：https://book.tstrs.me/',
+			'loveFree：https://ebook2.lorefree.com/',
+			'超级书库：https://shuayouxi.cn/',
+		]
+	},
+	{
+		name: '编程学习',
+		content: [
+			'菜鸟教程：https://www.runoob.com/',
+			'脚本之家：https://www.jb51.net/',
+			'AIDE教程网：https://www.aidemx.cn/',
+			'自学编程网：https://zxbcw.cn/',
+			'简明教程：https://www.jmjc.tech/',
+			'鼻子亲了脸：https://www.bzqll.com/',
+			'极域：https://www.jiyutq.com/',
+			'慕课网：https://www.imooc.com/',
+			'五分钟学算法：https://www.cxyxiaowu.com/',
+			'w3school：https://www.w3school.com.cn/',
+			'w3cschool：https://www.w3cschool.cn/',
+			'linux命令大全：https://www.linuxcool.com/',
+			'51cto学院：https://edu.51cto.com/',
+			'优达学城：https://cn.udacity.com/',
+		]
+	},
+	{
+		name: '音乐',
+		content: [
+			'墨灵音乐：https://music.qugeek.com/app/player',
+			'多合一搜索：http://music.ifkdy.com/',
+			'音乐下载：http://mctool.cn/music/',
+			'无损音乐交流：https://m.sq688.com/',
+			'QQ音乐：https://y.qq.com/',
+			'酷狗音乐：http://www.kugou.com/',
+			'酷我音乐：http://www.kuwo.cn/',
+			'网易云音乐：https://music.163.com',
+			'虾米音乐：https://www.xiami.com/',
+			'百度音乐：http://music.taihe.com/',
+		]
+	},
+	{
+		name: '壁纸',
+		content: [
+			'WallAbs：https://wall.alphacoders.com/?lang=Chines',
+			'必应壁纸：https://bing.ioliu.cn/',
+			'极简壁纸：https://bz.zzzmh.cn/',
+			'电脑壁纸：http://lab.mkblog.cn/wallpaper/',
+			'10壁纸：https://www.10wallpaper.com/cn/',
+			'Wallhaven：https://wallhaven.cc/',
+			'simples：http://simpledesktops.com‌',
+			'WpC：https://wallpaperscraft.com/',
+			'enterdesk：https://www.enterdesk.com',
+			'pexels：https://www.pexels.com/',
+			'wpm：https://www.wallpapermaiden.com				',
+		]
+	}
+]
