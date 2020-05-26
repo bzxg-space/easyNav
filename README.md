@@ -9,7 +9,7 @@
 1. 时间：20-4-24
 2. 作者：bzxg
 3. 功能：简单导航(简单的网址导航)
-4. 示例导航：[bzxg-space.github.io/easyNav](https://bzxg-space.github.io/easyNav/ "简单导航")
+4. 示例导航：[bzxg-space.github.io/easyNav](https://bzxg-space.github.io/easyNav "简单导航")
 5. 文件说明
    1.  `index.html` - 首页的html文件
    2.  `getJson.html` - 制作网址json数据文件的html
